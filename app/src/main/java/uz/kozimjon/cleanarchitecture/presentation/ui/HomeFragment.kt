@@ -10,9 +10,6 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
-import androidx.recyclerview.widget.RecyclerView
-import androidx.viewpager2.widget.CompositePageTransformer
-import androidx.viewpager2.widget.MarginPageTransformer
 import androidx.viewpager2.widget.ViewPager2
 import com.zhpan.indicator.enums.IndicatorSlideMode
 import com.zhpan.indicator.enums.IndicatorStyle
@@ -26,7 +23,7 @@ import uz.kozimjon.cleanarchitecture.presentation.adapter.SliderAdapter
 import uz.kozimjon.cleanarchitecture.presentation.model.Category
 import uz.kozimjon.cleanarchitecture.utils.App
 import uz.kozimjon.cleanarchitecture.utils.NewResource
-import uz.kozimjon.cleanarchitecture.viewmodels.NewsViewModel
+import uz.kozimjon.cleanarchitecture.presentation.viewmodels.NewsViewModel
 import javax.inject.Inject
 
 

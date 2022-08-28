@@ -1,10 +1,4 @@
-package uz.kozimjon.cleanarchitecture.viewmodels
-
-import androidx.lifecycle.ViewModel
-import androidx.lifecycle.ViewModelProvider
-import java.lang.RuntimeException
-import javax.inject.Inject
-import javax.inject.Provider
+package uz.kozimjon.cleanarchitecture.presentation.viewmodels
 
 //class ViewModelFactory @Inject constructor(
 //    private val creators: Map<Class<out ViewModel>,

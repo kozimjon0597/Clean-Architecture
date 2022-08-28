@@ -3,17 +3,10 @@ package uz.kozimjon.cleanarchitecture.presentation
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.widget.Toast
-import androidx.lifecycle.lifecycleScope
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
-import kotlinx.coroutines.launch
 import uz.kozimjon.cleanarchitecture.R
 import uz.kozimjon.cleanarchitecture.databinding.ActivityMainBinding
-import uz.kozimjon.cleanarchitecture.utils.App
-import uz.kozimjon.cleanarchitecture.utils.NewResource
-import uz.kozimjon.cleanarchitecture.viewmodels.NewsViewModel
-import javax.inject.Inject
 
 class MainActivity : AppCompatActivity() {
 //    @Inject

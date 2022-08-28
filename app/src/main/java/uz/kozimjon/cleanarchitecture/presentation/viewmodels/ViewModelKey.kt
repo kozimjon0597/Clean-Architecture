@@ -1,8 +1,4 @@
-package uz.kozimjon.cleanarchitecture.viewmodels
-
-import androidx.lifecycle.ViewModel
-import dagger.MapKey
-import kotlin.reflect.KClass
+package uz.kozimjon.cleanarchitecture.presentation.viewmodels
 
 //@MustBeDocumented
 //@Target(
