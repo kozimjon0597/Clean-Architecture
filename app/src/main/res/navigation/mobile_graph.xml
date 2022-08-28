@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="uz.kozimjon.cleanarchitecture.presentation.ui.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_navigation_home_to_detail_fragment"
+            app:destination="@id/detail_fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_cart"
+        android:name="uz.kozimjon.cleanarchitecture.presentation.ui.CartFragment"
+        android:label="@string/cart"
+        tools:layout="@layout/fragment_cart" >
+        <action
+            android:id="@+id/action_navigation_cart_to_detail_fragment"
+            app:destination="@id/detail_fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_favourite"
+        android:name="uz.kozimjon.cleanarchitecture.presentation.ui.FavouriteFragment"
+        android:label="@string/favourite"
+        tools:layout="@layout/fragment_favourite" >
+        <action
+            android:id="@+id/action_navigation_favourite_to_detail_fragment"
+            app:destination="@id/detail_fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_user"
+        android:name="uz.kozimjon.cleanarchitecture.presentation.ui.UserFragment"
+        android:label="@string/user"
+        tools:layout="@layout/fragment_user">
+    </fragment>
+
+    <fragment
+        android:id="@+id/detail_fragment"
+        android:name="uz.kozimjon.cleanarchitecture.presentation.ui.DetailFragment"
+        android:label="detail_fragment"
+        tools:layout="@layout/fragment_detail">
+        <argument
+            android:name="id"
+            app:argType="integer"/>
+        <argument
+            android:name="name"
+            app:argType="string"
+            app:nullable="true"/>
+        <argument
+            android:name="desc"
+            app:argType="string"
+            app:nullable="true"/>
+        <argument
+            android:name="image"
+            app:argType="string"
+            app:nullable="true"/>
+        <argument
+            android:name="net_price"
+            app:argType="float"/>
+
+    </fragment>
+
+</navigation>

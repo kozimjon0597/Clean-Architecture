@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable-v24/ic_bookmark.xml" value="0.123" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/adapter_slider.xml" value="0.122" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/backgroun_checked_category.xml" value="0.122" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/background_category.xml" value="0.122" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/background_image.xml" value="0.1135" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/background_new.xml" value="0.122" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/background_order.xml" value="0.1455" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/background_order_bottom.xml" value="0.169" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/background_plus_minus.xml" value="0.1455" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/background_section.xml" value="0.116" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/background_slider.xml" value="0.122" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1135" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.116" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.116" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.107" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_favorite_24_gray.xml" value="0.1565" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_favorite_24_white.xml" value="0.107" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1135" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_favorite_border_24_black.xml" value="0.1565" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_favorite_border_24_gray.xml" value="0.1455" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_favorite_border_24_white.xml" value="0.1565" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.107" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.1565" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1085" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/drawable/ic_baseline_shopping_cart_24_gray.xml" value="0.1085" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/adapter_cart.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/adapter_category.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/adapter_example.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/adapter_favourite.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/adapter_new.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/adapter_product.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/adapter_slider.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/fragment_cart.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/fragment_detail.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/fragment_favourite.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/layout/fragment_user.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/CleanArchitecture/app/src/main/res/menu/bottom_nav_menu.xml" value="0.19635416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
